@@ -1,0 +1,23 @@
+body{
+font-size: 16px;
+}
+
+h4 {
+font-family: WienLightC;
+font-size: 2rem; /* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+line-height: 1.5; /* Приближение из-за подстановки шрифтов */
+text-align: left;
+}
+
+.pink{
+	color: #eb158e;
+}
+
+h1 {
+font-family: WienLightC;
+font-size: 5.296rem; /* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+text-align: center;
+transform: scaleY(1.0032); /* свойства ширины и высоты были исключены, поскольку было выполнено трансформирование */
+}
